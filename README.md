@@ -45,3 +45,16 @@ The bot is optimized for high accuracy in Arabic text recognition and preserves 
 ---
 
 ## 📂 Project Structure
+bot.py # Main bot code
+.env # Environment variables (contains TELEGRAM_BOT_TOKEN)
+requirements.txt # Python dependencies
+README.md # Project documentation
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/telegram-ocr-pdf-bot.git
+cd telegram-ocr-pdf-bot
